@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Flutter,Laravel
 - 🌱 I’m currently learning Backend
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning MongoDB, DSA
 - 💬 Ask me anything about Java 
-- 📫 How to reach me: aadityakolhapure28@gmail.com
+- 📫 How to reach me: aadityakolhapure28@gmail.com / aaditya.kolhapure@dnyanshree.edu.in
 - 😄 My website: adityaportfolio2801.netlify.app
 - ⚡ Fun fact: I'm comming to teen
   
