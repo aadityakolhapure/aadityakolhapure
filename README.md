@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Kolhapure</h1>
 
 - 🔭 I’m currently working on Flutter,Laravel
-- 🌱 I’m currently learning Backend
-- 🌱 I’m currently learning MongoDB, DSA
+- 🌱 I’m currently learning MongoDB, DSA, Shell programming
 - 💬 Ask me anything about Java 
 - 📫 How to reach me: aadityakolhapure28@gmail.com / aaditya.kolhapure@dnyanshree.edu.in
 - 😄 My website: adityaportfolio2801.netlify.app
