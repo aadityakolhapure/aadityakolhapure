@@ -19,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,github,git,mysql,laravel,aws,flutter,dart,&=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,github,git,mysql,laravel,aws,mongodb,&=5)](https://skillicons.dev)
 
 ![Aaditya Kolhapure GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityakolhapure&show_icons=true&theme=dark)
 
