@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Kolhapure</h1>
 
-- 🔭 I’m currently working on Flutter,Laravel
+- 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning MongoDB, DSA, Shell programming
 - 💬 Ask me anything about Java 
 - 📫 How to reach me: aadityakolhapure28@gmail.com / aaditya.kolhapure@dnyanshree.edu.in
