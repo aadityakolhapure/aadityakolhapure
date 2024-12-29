@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MongoDB, DSA, Shell programming
 - 💬 Ask me anything about Java 
 - 📫 How to reach me: aadityakolhapure28@gmail.com / aaditya.kolhapure@dnyanshree.edu.in
-- 😄 My website: [adityaportfolio.app](https://aadityakolhapure.github.io/portfolio/)
+- 😄 My website: [adityaportfolio.app](https://portfolio-aaditya-pravin-kolhapures-projects.vercel.app/)
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
