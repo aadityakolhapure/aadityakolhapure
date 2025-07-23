@@ -1,26 +1,71 @@
+
 <h1 align="center">Hi 👋, I'm Aaditya Kolhapure</h1>
+<h3 align="center">🚀 Full Stack Developer | Java & Laravel Enthusiast | Building cool things on the Web</h3>
 
-- 🔭 I’m currently working on Laravel,
-- 🌱 I’m currently learning MongoDB, DSA, Shell programming
-- 💬 Ask me anything about Java 
-- 📫 How to reach me: aadityakolhapure28@gmail.com / aaditya.kolhapure@dnyanshree.edu.in
-- 😄 My website: [adityaportfolio.app](https://portfolio-aaditya-pravin-kolhapures-projects.vercel.app/)
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/aadityakolhapure">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="auto" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working with **Laravel**
+- 🌱 Learning: **MongoDB**, **Data Structures (Java)**, **Shell Scripting**
+- 💬 Ask me anything about **Java**, **Laravel**, or **DSA**
+- 📫 Reach me: `aadityakolhapure28@gmail.com` | `aaditya.kolhapure@dnyanshree.edu.in`
+- 🌐 Portfolio: [adityaportfolio.app](https://portfolio-aaditya-pravin-kolhapures-projects.vercel.app/)
+- ⚡ Fun fact: I'm entering my **teen developer phase** 🎉
+
+---
+
+### 🔗 Connect with me
+
+<p align="left">
+  <a href="https://github.com/aadityakolhapure" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/aaditya-kolhapure-534a2b241/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.linkedin.com/in/aaditya-kolhapure-534a2b241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,github,git,mysql,laravel,nodejs,aws,mongodb,figma,vscode,ubuntu,linux,notion,&=5)](https://skillicons.dev)
-![Aaditya Kolhapure GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityakolhapure&show_icons=true&theme=dark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakolhapure&theme=dark)
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,javascript,php,laravel,nodejs,mysql,mongodb,git,github,vscode,linux,ubuntu,aws,figma,notion&perline=10" />
+</p>
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥉 3rd Place - Red Hat India Final Challenge (Sept 2024)
+- ✅ Full Stack Laravel Intern @ Junghare.tech (Apr–Jul 2024)
+- 📱 Android Developer - India Edu Program + Google for Developers (Jul–Sep 2024)
+- 🎓 Core Java | C Programming | Web Development (Internshala & Udemy)
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakolhapure&theme=dark&hide_border=true" alt="Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadityakolhapure&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakolhapure&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+### 📌 Fun Dev Quote
+
+> *“First, solve the problem. Then, write the code.”* — John Johnson
+
+---
 
 
